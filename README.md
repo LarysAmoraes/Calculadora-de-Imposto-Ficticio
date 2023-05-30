@@ -1,11 +1,11 @@
 # Calculadora-de-Imposto-Ficticio
 Calculo de Imposto(Apenas para Estudo)
-Execultado apenas no terminal
+Execultado Apenas no terminal
 
 Criado em Python
 
 Somente Ultilizando 
-- Estrutura de condição 
+- Estrutura Condicionais1
 - Float
 - Variaveis Simples
 
