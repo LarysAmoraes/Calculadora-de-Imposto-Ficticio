@@ -18,4 +18,5 @@ elif income > 85528:
 tax = round(tax, 0)
 
 #Mostrando na Tela resolução
+
 print("The tax is:", tax, "thalers")
